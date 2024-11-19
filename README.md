@@ -1,3 +1,6 @@
+Github Repo = https://github.com/BrannanOwensDA/Project-Build-an-ML-Pipeline-Starter
+Wandb Repo = https://wandb.ai/brannan-owens-da-ml/nyc_airbnb?nw=nwuserbrannanowensda
+
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 

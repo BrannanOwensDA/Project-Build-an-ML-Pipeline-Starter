@@ -76,7 +76,7 @@ def go(config: DictConfig):
                 "main",
                 parameters={
                     "csv": "clean_sample.csv:latest",  # Use the latest cleaned sample
-                    "ref": "clean_sample.csv:v0",  # Reference artifact
+                    "ref": "clean_sample.csv:v1",  # Reference artifact
                     "kl_threshold": config["data_check"]["kl_threshold"],  # Configured KL divergence threshold
                     "min_price": config['etl']['min_price'],  # Minimum price from command line args
                     "max_price": config['etl']['max_price']  # Maximum price from command line args
